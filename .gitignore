@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+mongo/
+/mongo
+.env
+
 # testing
 /coverage
 
@@ -34,6 +38,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 
-mongo/
-/mongo
-.env
